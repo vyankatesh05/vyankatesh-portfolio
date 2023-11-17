@@ -1,0 +1,31 @@
+.bg-primary{
+    /* background: linear-gradient(to bottom, #ff6699 0%, #6699ff 100%); */
+    /* background: linear-gradient(to bottom, #ff9933 0%, #9933ff 100%); */
+    background: linear-gradient(to right, #9B4E46 0%, #7871CD 100%);
+    
+}
+
+.my-icon{
+    font-size: 80px!important;
+    color: 97727f;
+}
+
+.services-container{
+    border: 5px solid #544f51;
+    padding: 25px;
+    cursor: pointer;
+    transition: 200ms all ease-in-out;
+}
+
+.services-container:hover{
+    /* background: black; */
+    background: linear-gradient(to right, #9B4E46 0%, #7871CD 100%);
+    color: white;
+    border-radius: 20px;
+}
+
+.responsive-image {
+    width: 80%;
+    height: auto;
+    border-radius: 20px;
+}
